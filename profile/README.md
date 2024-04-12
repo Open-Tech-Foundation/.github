@@ -1,4 +1,8 @@
+<div align="center">
+  
 # OPEN TECH FOUNDATION
+
+</div>
 
 🙏 Welcome to our non-profit, collaborative & open organization.
 
