@@ -1,8 +1,16 @@
-# Welcome to OPEN TECH FOUNDATION
+# OPEN TECH FOUNDATION
 
-> An initiative to standardize OSS libraries. [*CURRENT FOCUS]
+🙏 Welcome to our non-profit, collaborative & open organization.
 
-## PRINCIPLES
+## Goal
+
+> Creating a Platform for Everyone to Have Standard and Essential Technology.
+
+## Current Focus
+
+> Standardize OSS libraries.
+
+## Principles
 
 - Simple APIs
 - Implement only essential features
