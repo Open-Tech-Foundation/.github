@@ -4,22 +4,19 @@
 
 </div>
 
-🙏 Welcome to our non-profit, collaborative & open organization.
+🙏 Welcome to our non-profit, collaborative, and open organization!
 
-## Goal
-
-> Creating a Platform for Everyone to Have Standard and Essential Technology.
+## Our Mission
+Empowering everyone with access to standardized and essential technology.
 
 ## Current Focus
+Standardizing Open Source Software (OSS) libraries.
 
-> Standardize OSS libraries.
+## Core Principles
+- **User-Friendly APIs**: Prioritize simplicity for seamless integration.
+- **Essential Features Only**: Focus on what's truly necessary for developers.
+- **Developer Respect**: Foster a culture of appreciation and support for all contributors.
+- **Commitment to Accessibility**: Ensure our tools are usable by everyone.
+- **Beginner-Friendly**: Provide clear mental models and explanations for technical jargon in our documentation.
 
-## Principles
-
-- Simple APIs
-- Implement only essential features
-- Respect Developers
-- Support Accessibility
-- Beginner-Friendly (Providing mental models, explaining jargon in documents, etc.)
-
-Please checkout our website [https://open-tech-foundation.pages.dev/](https://open-tech-foundation.pages.dev/) for more information including `Featured Projects`, `Blog Posts`, etc.
+For more information, including featured projects and blog posts, please visit our website: [Open Tech Foundation](https://open-tech-foundation.pages.dev/).
