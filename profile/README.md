@@ -1,4 +1,4 @@
-# <img src="https://avatars.githubusercontent.com/u/49762721" width="32" align="center"> Open Tech Foundation
+# <img src="https://raw.githubusercontent.com/Open-Tech-Foundation/website/3ed7ac70ec44465eec0f94e5185cb28a9b11ed07/static/img/OTF-Logo.svg" width="50" align="center"> Open Tech Foundation
 
 **Advocacy • Collaboration • Open Innovation**
 
