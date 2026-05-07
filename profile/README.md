@@ -1,4 +1,4 @@
-# 🌐 Open Tech Foundation
+# <img src="https://avatars.githubusercontent.com/u/49762721" width="32" align="center"> Open Tech Foundation
 
 **Advocacy • Collaboration • Open Innovation**
 
