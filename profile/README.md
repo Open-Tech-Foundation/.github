@@ -1,4 +1,10 @@
+<div align="center">
+  
 # <img src="https://raw.githubusercontent.com/Open-Tech-Foundation/website/3ed7ac70ec44465eec0f94e5185cb28a9b11ed07/static/img/OTF-Logo.svg" width="50" align="center"> Open Tech Foundation
+
+🌐 [https://opentechf.org](https://opentechf.org)
+
+</div>
 
 **Advocacy • Collaboration • Open Innovation**
 
@@ -15,17 +21,6 @@ Accelerate the adoption of open technologies built on essential principles:
 * **Security & Privacy** – safe by design
 * **Transparency** – open, auditable, and trustworthy
 * **Community Governance** – shaped by contributors, not control
-
----
-
-## 🧩 Focus Areas
-
-* **Open Source Software** – practical, reusable tools
-* **Open Data** – accessible and shareable information
-* **Open Standards** – enabling compatibility and longevity
-* **Open Protocols** – decentralized and resilient communication
-
----
 
 ## 🤝 Get Involved
 
