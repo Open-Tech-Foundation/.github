@@ -29,4 +29,12 @@ Accelerate the adoption of open technologies built on essential principles:
 * Share ideas & feedback
 * Support the mission
 
+## Contact
+
+Questions, feedback, or collaboration ideas?
+📧 contact@opentechf.org
+
+Need help with the project?
+📧 support@opentechf.org
+
 ---
